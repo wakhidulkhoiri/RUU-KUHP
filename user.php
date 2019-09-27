@@ -1,13 +1,15 @@
 <?php
-$stat_sseth=true;
-$msgsseth= "[---] enjoy your life";
-$stat_cp = true;
-$msgcp = "[--] enjoy your life";
-$figlet= $ijo."
-───────────────────────────────────────────
-── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀ ".$kuning." [`  ||    _    _.       
-── █─ █▀█ █─█ █ █─▀█ █─▀▌".$kuning." | L||| \/(/_|`_\|".$ijo."
-── ─▀ ▀─▀ █▀─ ▀ ▀──▀ ▀▀▀───────────────────".$t.
-  $putih."creator:".$ijo." adidoank   ".$putih."[--]  ide  :".$ijo." sungging  ".$t.
-  $putih."chanel :".$ijo." adi bordir ".$putih."[--] chanel:".$ijo." sungging  ".$t.
-  $putih."invite :".$ijo." ipzme2     ".$putih."[--] invite:".$ijo."  otr3o8   ".$t;
+/* setting bot */
+$ads=$t.$red."\t >> Untuk Para Jomblo Enggak Usah Nikah << ".$t.$pth."[ ".$ijo."Ada RUU KUHP Baru Perkosa Istri".$pth." ]=[".$kn."Denda 10 M".$pth."]=[ ".$tr."Colay Aja..!!!]".$t;
+$donasi=false;
+$warn=$red."[!] Perhatian!!!
+".$kn."[-] Ini Adalah Program Ilegal.....!!!!
+".$kn."[-] Oppit Bagi - Bagi".$t;
+$big=$br."
+──── █▀▄ ▀ ▄▀▀─────".$tr." ▀█▀ ▄▀▄ █─▄▀ █▀▀ █▄─█────".$br."
+──── █▀█ █ █─▀▌────".$tr." ─█─ █─█ █▀▄─ █▀▀ █─▀█────".$br."
+──── ▀▀─ ▀ ▀▀▀─────".$tr." ─▀─ ─▀─ ▀─▀▀ ▀▀▀ ▀──▀────".$pth."
+=| Script : ".$ijo."Big Token ".$pth."|==| Tahun :".$tr." [ 2019 ]".$pth." |=".$t;
+$msg_big="[•]=[ Penak Temen Uripmu ]";
+$stat_big=true;
+?>
